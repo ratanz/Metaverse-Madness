@@ -37,13 +37,13 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      'we have the latest update with new world for you to try never mind',
   },
   {
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      'In the latest update, your eyes are narrow, making the world more realistic than ever',
   },
 ];
 
@@ -52,19 +52,19 @@ export const insights = [
     imgUrl: '/planet-06.png',
     title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      'Tech mogul faces unexpected competition as virtual reality platform threatens to reshape the digital landscape',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      'Navigate the virtual realm like a pro with these essential strategies',
   },
   {
     imgUrl: '/planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      'Discover how the Metaverse is revolutionizing global exploration from the comfort of your home',
   },
 ];
 
